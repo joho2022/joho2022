@@ -4,6 +4,16 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoho2022&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+<p align="center">
+
+### contact
+[![Instagram Badge](https://img.shields.io/badge/-hosamasama-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hosamasama)](https://www.instagram.com/hosamasama)
+
+[![Email](https://img.shields.io/badge/naver-josama1997%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:josama1997@naver.com)
+
+</p>
+
+
 <p>
     <!-- iOS -->
     <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
