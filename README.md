@@ -1,23 +1,13 @@
-<p align="center">
+<div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bef7b7&height=150&section=header&text=Welcome!&nbsp;&nbsp;&nbsp;💻📱&fontSize=60&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bef7b7&height=150&section=header&text=Welcome&nbsp;to&nbsp;KAI’s&nbsp;Github&fontSize=60&fontColor=ffffff"/>
+
+
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoho2022&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+## 📚💻📱📚
 <p align="center">
-    
-  <a href="https://www.instagram.com/hosamasama">
-    <img src="https://img.shields.io/badge/-hosamasama-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  &nbsp; 
-  <a href="mailto:josama1997@naver.com">
-    <img src="https://img.shields.io/badge/naver-josama1997%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-
-
-<p>
     <!-- iOS -->
     <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
     <!-- Swift -->
@@ -27,19 +17,24 @@
     <!-- CocoaPods -->
     <img alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white"/>
 </p>
+        
+&nbsp;
+        
+## 👨‍💻 Problem Solving 👨‍💻
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosama)](https://solved.ac/hosama)
+        
+&nbsp;
+### 🎯 Contact 🎯
+[![Instagram Badge](https://img.shields.io/badge/-hosamasama-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hosamasama)](https://www.instagram.com/hosamasama) &nbsp; [![Email](https://img.shields.io/badge/naver-josama1997%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:josama1997@naver.com)
 
 <p align="center">
-
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosama)](https://solved.ac/hosama)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joho2022&layout=compact&theme=merko" />
   <img src="https://github-readme-stats.vercel.app/api?username=joho2022&show_icons=true&theme=merko" />
 </p>
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=bef7b7&height=130&section=footer&fontSize=90&fontColor=ffffff"/>
-  
-</p>
 
+</div>
 
 
 
