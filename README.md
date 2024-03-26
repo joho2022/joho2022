@@ -4,7 +4,7 @@
 
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoho2022&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 
 ## 📚💻📱📚
 <p align="center">
@@ -17,9 +17,9 @@
     <!-- CocoaPods -->
     <img alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white"/>
 </p>
-        
+<!--       
 &nbsp;
-        
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoho2022&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 ## 👨‍💻 Problem Solving 👨‍💻
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosama)](https://solved.ac/hosama)
         
@@ -36,6 +36,7 @@
 
 </div>
 
+-->
 
 
 
