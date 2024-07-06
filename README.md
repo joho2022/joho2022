@@ -1,8 +1,8 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bef7b7&height=150&section=header&text=안녕하세요!&nbsp;&nbsp;&nbsp;&fontSize=60&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bef7b7&height=150&section=header&text=안녕하세요!&fontSize=60&fontColor=ffffff"/>
 
-
+ &nbsp;&nbsp;&nbsp;
 
 
 
