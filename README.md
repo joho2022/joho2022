@@ -4,14 +4,14 @@
   </div>
   
   <p style="font-weight: 900; font-size: 1.2em; margin-top: 10px;">
-    35기 AND SOPT iOS (2024.09 ~ )
+    35기 AND SOPT _ iOS (2024.09 ~ )
   
   <div>
     <img src="https://github.com/user-attachments/assets/cab3a2aa-1096-4619-82c6-fb18000f58ab" alt="코드스쿼드" width="100">
   </div>
   
   <p style="font-weight: 900; font-size: 1.2em; margin-top: 10px;">
-    코드스쿼드 마스터즈 iOS (2024.01 ~ 2024.08)
+    코드스쿼드 마스터즈 _ iOS (2024.01 ~ 2024.08)
   </p>
   
   
