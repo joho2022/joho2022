@@ -4,7 +4,7 @@
   </div>
   
   <p style="font-weight: 900; font-size: 1.2em; margin-top: 10px;">
-    35기 AND SOPT _ iOS (2024.09 ~ )
+    35기 AND SOPT _ iOS (2024.09 ~ 2025.02)
   
   <div>
     <img src="https://github.com/user-attachments/assets/cab3a2aa-1096-4619-82c6-fb18000f58ab" alt="코드스쿼드" width="100">
